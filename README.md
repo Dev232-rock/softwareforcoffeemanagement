@@ -8,8 +8,11 @@
 Solution For these Problem
 
 1.User can choose combination of coffees that can be ordered
+
 2.users can choose their coffee type with the preferred add-on.
+
 3.user can pay bill/receipt with the amount to be paid.
+
 4. users can order more than 1 cup and more than 1 variety
 
 # Run app.py File 
