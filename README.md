@@ -13,7 +13,7 @@ Solution For these Problem
 
 3.user can pay bill/receipt with the amount to be paid.
 
-4.users can order more than 1 cup and more than 1 variety
+4. users can order more than 1 cup and more than 1 variety
 
 # Run app.py File 
 # Arrange all the files in Sequence 
